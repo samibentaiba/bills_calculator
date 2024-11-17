@@ -1,0 +1,14 @@
+{
+    "name": "vending-machine-change",
+    "version": "1.0.0",
+    "description": "A project to calculate the optimal way to give change using available denominations.",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+}
